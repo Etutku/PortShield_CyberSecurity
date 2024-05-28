@@ -1,6 +1,8 @@
 #  Port Scanner - Cybersecurity Project
 
+- Edibe Tutku Gayda - 414151
 This is a cybersecurity project that includes a basic port scanner with the added feature of identifying services running on open ports and checking for known vulnerabilities.
+
 
 ## Table of Contents
 
