@@ -6,9 +6,9 @@ This is a cybersecurity project that includes a basic port scanner with the adde
 
 | No # | Table of Contents                                                                   |
 | --- | ----------------------------------------------------------------------- |
-| **1**   | [**Project Description**](https://github.com/xkyleann/PortShield_CyberSec/blob/main/README.md) |
+| **1**   | [**Project Description**](https://github.com/Etutku/PortShield_CyberSecurity/blob/main/README.md) |
 | **2**   | [**User Stories and Acceptance Criteria**](https://github.com/xkyleann/PortShield_CyberSec/blob/main/PortShield_Documentation.xlsx) |
-| **3**   | [**Project Base**](https://github.com/xkyleann/PortShield_CyberSec/blob/main/PortShield_CyberSec.py) |
+| **3**   | [**Project Base**](https://github.com/Etutku/PortShield_CyberSecurity/blob/main/PortShield_CyberSec.py) |
 | **4**   | [**Possible Cases**](https://github.com/xkyleann/PortShield_CyberSec/blob/main/PossibleCases.md) |
 
 
